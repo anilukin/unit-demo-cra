@@ -4,7 +4,7 @@ import { Helmet } from "react-helmet";
 export const About: FC = () => {
   return (
     <>
-      <Helmet>
+      <Hel met>
         <title>About page</title>
       </Helmet>
       <h1 data-testid="page-title">About</h1>
